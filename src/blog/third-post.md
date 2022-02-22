@@ -9,7 +9,7 @@ We will have an excel sheet to monitor our safe bet portfolio size, so we alloca
  Here we want capital light companies, with a huge chunk of cash and strong cash generation. Names well positioned to keep their legacy for at least 15 years. They also need to beat the market (we should include the VTI here as well.
 
 20% to the Fast Growing companies 
- according to Peter Lynch, one criteria for the tenbaggers is the fact that they are small and fast growing.
+ according to Peter Lynch, one criteria for the ten-baggers is the fact that they are small and fast growing.
 
 Tail Risk Hedge
 It's not that hard to do yourself.

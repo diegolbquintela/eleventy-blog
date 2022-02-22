@@ -1,9 +1,7 @@
 ---
-title: Hello world
+title: orpheus wisdom
 layout: 'index.njk'
 ---
-
-Hello eleventy people
 
 <ul>
   {% for post in collections.posts %}
